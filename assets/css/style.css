@@ -248,8 +248,8 @@ nav .button-collapse i {
   padding: 40px 25px 60px 25px;
 }
 #about .profile-pic {
-  width: 150px;
-  height: 150px;
+  width: 200px;
+  height: 260px;
   display: inline-block;
   -webkit-border-radius: 50%;
   -moz-border-radius: 50%;
@@ -264,8 +264,8 @@ nav .button-collapse i {
   -ms-border-radius: 50%;
   -o-border-radius: 50%;
   border-radius: 50%;
-  height: 150px;
-  width: 150px;
+  height: 260px;
+  width: 200px;
   vertical-align: middle;
   margin-top: -70px;
 }
