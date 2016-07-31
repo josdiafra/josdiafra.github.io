@@ -147,7 +147,7 @@ h1 {
 */
 #header-top {
   min-height: 100px;
-  background: #009a82;
+  background: #003366;
 }
 #header-top .top-contact {
   margin: 20px;
@@ -173,7 +173,7 @@ h1 {
 |---------------------------------------------------------------------------- 
 */
 #header-bottom {
-  background-color: #009a82;
+  background-color: #003366;
   padding-top: 20px;
   z-index: 9999;
 }
@@ -230,7 +230,7 @@ nav .button-collapse i {
   color: #444;
 }
 #sticky-nav {
-  background-color: #009a82;
+  background-color: #003366;
   z-index: 999;
 }
 /*
@@ -305,7 +305,7 @@ nav .button-collapse i {
   border-color: inherit;
 }
 #about .intro-content .btn-success {
-  background-color: #38de8a;
+  background-color: #006699;
   border-color: inherit;
 }
 /*
@@ -314,7 +314,7 @@ nav .button-collapse i {
 |----------------------------------------------------------------------------
 */
 #skills .skill-line {
-  background: #009a82;
+  background: #006699;
   color: #fff;
   padding: 40px 30px;
 }
@@ -361,7 +361,7 @@ nav .button-collapse i {
 |----------------------------------------------------------------------------
 */
 .cd-timeline-img {
-  background-color: #009a82;
+  background-color: #006699;
 }
 .cd-timeline-content {
   padding: 30px 20px !important;
@@ -378,7 +378,7 @@ nav .button-collapse i {
   margin: 0px;
 }
 .cd-timeline-content span {
-  color: #009a82;
+  color: #006699;
   font-size: 16px;
   line-height: 34px;
 }
@@ -512,7 +512,7 @@ nav .button-collapse i {
 }
 .market-place ul li a {
   text-decoration: none;
-  color: #009a82;
+  color: #003366;
 }
 .market-place ul li a h3 {
   margin-top: 10px;
@@ -653,7 +653,7 @@ nav .button-collapse i {
 #pricing-table .pricing .plan .thumbnail .btn {
   padding: 7px 30px;
   margin-top: 30px;
-  background-color: #009a82;
+  background-color: #003366;
   font-style: normal;
 }
 /*
@@ -768,7 +768,7 @@ nav .button-collapse i {
 }
 .dropdown-content li:hover {
   background-color: inherit;
-  color: #009a82;
+  color: #003366;
 }
 .select-wrapper input.select-dropdown {
   color: #8a8a8b;
@@ -792,7 +792,7 @@ input[type=tel]:focus:not([readonly]),
 input[type=number]:focus:not([readonly]),
 input[type=search]:focus:not([readonly]),
 textarea.materialize-textarea:focus:not([readonly]) {
-  border-bottom: 1px solid #009a82;
+  border-bottom: 1px solid #003366;
 }
 input[type=text]:focus:not([readonly]) + label,
 input[type=password]:focus:not([readonly]) + label,
@@ -805,7 +805,7 @@ input[type=tel]:focus:not([readonly]) + label,
 input[type=number]:focus:not([readonly]) + label,
 input[type=search]:focus:not([readonly]) + label,
 textarea.materialize-textarea:focus:not([readonly]) + label {
-  color: #009a82;
+  color: #003366;
 }
 input[type=text]:focus:not([readonly]),
 input[type=password]:focus:not([readonly]),
@@ -821,17 +821,17 @@ textarea.materialize-textarea:focus:not([readonly]) {
   box-shadow: inherit;
 }
 .waves-me:focus {
-  background-color: #009a82;
+  background-color: #003366;
   color: #fff;
 }
 .btn {
   margin-left: 10px;
   padding: 0px 30px;
-  background-color: #009a82;
+  background-color: #003366;
 }
 .btn:hover,
 .btn:focus {
-  background-color: #009a82;
+  background-color: #003366;
 }
 .email-success,
 .email-failed {
@@ -856,12 +856,12 @@ textarea.materialize-textarea:focus:not([readonly]) {
   cursor: default;
 }
 .btn.disabled:focus {
-  background-color: #009a82;
+  background-color: #003366;
   color: #fff;
   cursor: default;
 }
 .btn.disabled:hover {
-  background-color: #009a82;
+  background-color: #003366;
   color: #fff;
   cursor: default;
 }
@@ -882,7 +882,7 @@ textarea.materialize-textarea:focus:not([readonly]) {
   text-align: center;
 }
 .interests ul li .fa {
-  color: #009a82;
+  color: #003366;
   font-size: 40px;
   line-height: 57px;
 }
